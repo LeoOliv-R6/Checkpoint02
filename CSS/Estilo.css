@@ -1,0 +1,30 @@
+#container{
+    background-color: aquamarine
+}
+.banner{
+    max-width: 70%;
+    margin: 0% 15%;
+}
+.menu{
+    float: right;
+    margin: 0% 15%;
+}
+.menu ul li {
+    display: inline;
+    font-size: 14px;
+    list-style: none;
+}
+
+.menu ul li a {
+    padding: 2px 30px;
+    display: inline;
+    font-size: 20px;
+    background-color: #b4c1d3;
+    color: rgb(38, 19, 105);
+    text-decoration: none;
+    border-bottom: 3px solid #110233;
+}
+
+.menu ul li a:hover {
+    text-decoration: underline;
+}
