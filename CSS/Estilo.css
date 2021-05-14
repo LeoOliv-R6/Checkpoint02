@@ -28,3 +28,23 @@
 .menu ul li a:hover {
     text-decoration: underline;
 }
+.container {
+    height: 100%;
+    background: -webkit-linear-gradient(top, );
+}
+
+.joaninha {
+    font-size: 5vw;
+    text-align: left;
+    padding: 3vw;
+    position: relative;
+}
+
+.op1 {
+    width: 38%;
+    display: inline-block;
+    font-size: 3vw;
+    text-align: right;
+    padding: 5vw 0vw 5vw 0vw;
+    min-width:40vw;
+}
